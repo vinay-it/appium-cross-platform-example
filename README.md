@@ -3,7 +3,7 @@
 
 ### About the apps
 The Fastip app can be downloaded by this repository
-[https://github.com/ptraeg/mobile-apps-4-ways](https://github.com/ptraeg/mobile-apps-4-ways)
+[https://github.com/vinay-it/mobile-apps-4-ways](https://github.com/ptraeg/mobile-apps-4-ways)
 
 I have built the apps for Android and iOS platform, and these are located in app folder.
 
